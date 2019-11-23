@@ -1,7 +1,18 @@
 /* eslint-disable */
-const withCss = require('@zeit/next-css')
+const withCss = require('@zeit/next-css');
+const withLess = require('@zeit/next-less');
+const withPlugins = require("next-compose-plugins"); // 同时引入多个组件
 
-module.exports = withCss({
+// module.exports = withPlugins([
+//   [
+//     withLess, {
+//       lessLoaderOptions : {
+//         javascriptEnabled : true
+//       }
+//     }
+//   ],
+//   withCss], {
+module.exports = withPlugins([withCss, withLess], {
   webpack: (config, { isServer }) => {
     if (isServer) {
       const antStyles = /antd\/.*?\/style\/css.*?/

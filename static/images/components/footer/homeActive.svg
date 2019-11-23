@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>分组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="22" height="22"></rect>
+        <linearGradient x1="20.2181241%" y1="10.8539668%" x2="67.1452562%" y2="108.934509%" id="linearGradient-3">
+            <stop stop-color="#80D7FF" offset="0%"></stop>
+            <stop stop-color="#2D79FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页风格4-ding" transform="translate(-84.000000, -804.000000)">
+            <g id="Group-2" transform="translate(0.000000, 797.000000)">
+                <g id="分组-3" transform="translate(84.000000, 7.000000)">
+                    <g id="分组">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero"></g>
+                        <g mask="url(#mask-2)" fill="url(#linearGradient-3)" id="Fill-1">
+                            <path d="M21.09,9.33962452 L12.614,0.863624524 C12.183,0.432624524 11.589,0.222624524 10.986,0.254624524 C10.391,0.216624524 9.798,0.434624524 9.369,0.863624524 L0.909,9.32362452 C0.513,9.71862452 0.296,10.2446245 0.296,10.8046245 C0.296,11.3636245 0.513,11.8906245 0.909,12.2846245 C1.349,12.7256245 1.946,12.9326245 2.524,12.8926245 L2.524,18.7916245 C2.524,20.4226245 3.92,21.7496245 5.636,21.7496245 L8.531,21.7496245 C8.945,21.7496245 9.281,21.4136245 9.281,20.9996245 L9.281,15.4986245 L12.653,15.4986245 L12.653,20.9996245 C12.653,21.4136245 12.989,21.7496245 13.403,21.7496245 L16.143,21.7496245 C17.859,21.7496245 19.255,20.4226245 19.255,18.7916245 L19.255,12.8876245 C19.903,12.9946245 20.591,12.8026245 21.09,12.3046245 C21.486,11.9076245 21.704,11.3816245 21.704,10.8216245 C21.704,10.2616245 21.486,9.73562452 21.09,9.33962452"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

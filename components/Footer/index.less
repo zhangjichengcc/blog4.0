@@ -1,0 +1,35 @@
+
+@import '../../static/styles/default.less';
+.footerBar {
+  position: fixed;
+  display: flex;
+  height: @footer-height;
+  bottom: 0;
+  width: 100%;
+  padding: .12rem .1rem 0;
+  border-top: .01rem solid #eee;
+  z-index: 1000;
+  background-color: @footer-bgColor;;
+  >div {
+    flex: 1;
+    text-align: center;
+  }
+  .itemBtn {
+    display: inline-block;
+    font-size: 0;
+    &.active {
+      color: #33a3f4;
+    }
+  }
+  .itemIcon {
+    display: block;
+    width: .44rem;
+    height: .44rem;
+    margin: 0 .1rem;
+    background-size: .43rem .43rem;
+    background-repeat: no-repeat;
+  }
+  .itemText {
+    font-size: .2rem;
+  }
+}

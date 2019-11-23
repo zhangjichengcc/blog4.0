@@ -1,4 +1,8 @@
-# Ant Design example
+# myblog4.0
+
+> nextjs + antd + antd-mobild + react
+
+> install: npx create-next-app --example <projectname> with-ant-design-pro
 
 ## How to use
 
