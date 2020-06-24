@@ -16,6 +16,14 @@
         "style": "css"
       },
       "antd-mobile"
+    ],
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "@": "./"
+        }
+      }
     ]
   ]
 }
