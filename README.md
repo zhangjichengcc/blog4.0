@@ -1,6 +1,6 @@
 # myblog4.0
 
-> nextjs + antd + antd-mobild + react
+> nextjs + antd + antd-mobile + react
 
 > install: npx create-next-app --example <projectname> with-ant-design-pro
 
